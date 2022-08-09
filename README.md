@@ -1,2 +1,4 @@
 # tic-tac-toe
-A tic tac to game played among two players
+A tic tac toe game played among two players
+
+Does not include computer player
